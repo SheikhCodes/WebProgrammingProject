@@ -1,0 +1,8 @@
+export const LEARNER_SIGN_UP = "LEARNER_SIGN_UP"
+export const LEARNER_SIGN_IN = "LEARNER_SIGN_IN"
+export const LEARNER_SIGN_OUT = "LEARNER_SIGN_OUT"
+export const IS_FETCHING = "IS_FETCHING"
+export const ERROR = "ERROR"
+export const GET_LEARNER = "GET_LEARNER"
+export const GET_USER_ERROR = "GET_USER_ERROR"
+export const GET_ALL_COURSES = "GET_ALL_COURSES"
