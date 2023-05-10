@@ -16,7 +16,3 @@ tracking their own progress along the way.
 • Administrators are in charge for the management of the LMS,
 which includes multiple tasks ranging from course creation,
 to learner assignment, to monitoring learner progress.
-
-## Preview
-
-![Landing Page](./src/assests/img/landingpage.PNG)
